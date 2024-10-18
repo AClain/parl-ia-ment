@@ -1,3 +1,8 @@
+# About this project
+
+This project was done in colaboration with students of Epitech (Romain MULARCZYK, Thibault VALLET and Myriam ABDELLI) in the context of the writing of a scientific paper about _Automating Topic Classification of French Parliamentary
+Questions with Large Language Models_. This project was used to prompt an LLM (mainly _OpenAI's GPT 4o-mini_) using an interface written in Python inside of different notebooks. To see the final result, refer to this README and the _notebooks_ folder inside _src_.
+
 # Scripts
 
 > compact_into_json.py
@@ -30,263 +35,6 @@ The `total` column will be empty (set to 0) for every theme. To aggregate the to
 
 All the `total` column will be filled based on the `Questions` collection.
 
-# Working with the database (Pymongo)
-
-### Add or update a theme
-
-```python
-from utils.helpers import generate_theme_unique_identifier
-
-theme_name = "animaux, agriculture et agroalimentaire"
-theme_level = 3
-unique_identifier = generate_theme_unique_identifier(theme_name, theme_level)
-
-theme = Theme(
-    name=theme_name,
-    parent_theme_identifier=None,
-    unique_identifier=unique_identifier,
-    level=theme_level,
-    total=0, # There is an other script to get the total number of questions for a any level theme
-)
-
-theme_doc = connector.client.upsert_theme(theme)
-```
-
-### Get one or more themes
-
-```python
-theme = connector.client.get_theme({"name": "administration", "level": 1})
-
-theme["name"] # "administration"
-
-level_3_themes = connector.client.get_themes({"level": 3}) # Returns a Cursor
-level_3_themes = list(level_3_themes) # Cast the Cursor to a list
-
-# Retrieve all level 2 themes, sorted ASC by name
-level_2_themes = connector.client.get_themes_by_level(2)
-```
-
-### Retrieve details of one or more themes
-
-```python
-connector.client.get_themes({"total": {"$gt": 1500}}) # Get all the themes with 0 or more total questions
-connector.client.get_themes({"level": 2, "total": {"$gt": 1500}}) # Get all the themes at level 2 with 0 or more total questions
-
-theme = connector.client.get_theme({"name": "administration", "level": 1}) # Get the "administration" named theme at level 0
-
-theme["total"] # Get the total number of questions of a specific theme
-
-# Retrieve the parent theme of the level 1 theme "agriculture"
-theme = connector.client.get_theme({"level": 1, "name": "agriculture"})
-top_level_theme = connector.client.get_parent_theme(theme["parent_theme_identifier"], stop_at_level=2, base_theme_level=1)
-
-top_level_theme["name"] # "agriculture et agroalimentaire"
-```
-
-### Retrieve all sub themes of a given theme
-
-```python
-# Get the "industrie" theme at level 0
-theme = connector.client.get_theme({"name": "industrie", "level": 0})
-
-# Get all sub themes of the "industrie" theme and flatten the list
-result = connector.client.get_sub_themes_list_from_theme(theme["unique_identifier"], flatten=True)  # returns a list
-```
-
-### Add or update a question
-
-```python
-from models.Question import Question, QuestionType
-
-question = Question(
-    id: "13-132810QE"
-    congressman: "Goldberg Daniel"
-    questioned_ministry: "Intérieur"
-    responsible_ministry: "Intérieur"
-    question_date: date.strftime('%Y-%m-%d')
-    response_date: date.strftime('%Y-%m-%d')
-    theme: "transports aériens"
-    sub_theme: "aéroports"
-    question_text: "M. Daniel Goldberg attire l'attention de M. le ministre de l'intérieur sur les problèmes d'autorisation et de renouvellement des badges d'accès aux zones aéroportuaires. (...)"
-    response_text: "(...)"
-    question_type: QuestionType.QUESTION_ECRITE
-)
-
-question = connector.client.upsert_question(question)
-```
-
-### Get one or more questions
-
-```python
-question = connector.client.get_question({"id": "13-132810QE"})
-
-question_ids = ["13-132810QE", "13-132809QE", "13-132808QE"]
-questions = connector.client.get_questions({"id": {"$in": question_ids}}) # Returns a Cursor
-questions = list(questions) # Cast the Cursor to list
-
-# Get 1000 random questions from the 13th legislature
-random_questions = connector.client.get_random_questions({
-    number_of_questions=1000, legislature=13
-}) # Returns a Cursor
-random_questions = list(random_questions) # Cast Cursor to list
-```
-
-### Aggregate questions
-
-```python
-# Retrieve all questions asked in 2015
-year = 2015
-questions = connector.client.aggregate_questions(
-    [
-        {"$match": {"question_date": {"$regex": f"{year}-"}}},
-    ]
-) # Returns a Cursor
-questions = list(questions) # Cast the Cursor to list
-
-# Retrieve all questions asked during the 13th legislature
-legislature = 13
-questions = connector.client.aggregate_questions(
-    [{"$match": {"id": {"$regex": f"{legislature_number}-"}}}]
-)
-```
-
-### Count questions
-
-```python
-# Count number of questions for a given theme (only works for level 0 themes)
-number_of_questions = connector.client.count_documents_by_theme("agriculture")
-
-print(number_of_questions) # 12225
-```
-
-### Add or update a prompt
-
-```python
-from models.Prompt import Prompt, PromptText, RoleEnum
-from utils.helpers import hash_list
-
-system_prompt = (
-    "Ton rôle est d'attribué un thème à une question posée par un député à l'Assemblée Nationale."
-    "(...)"
-)
-
-question = (...)
-user_prompt = question["question_text"]
-
-prompts = [
-    PromptText(role=RoleEnum.System.value, content=system_prompt).model_dump(),
-    PromptText(role=RoleEnum.User.value, content=user_prompt).model_dump(),
-]
-
-prompt = Prompt(
-    unique_identifier=hash_list(prompts),
-    prompts=prompts,
-)
-
-prompt = connector.client.upsert_prompt(prompt)
-```
-
-### Get one or more prompts
-
-```python
-prompt = connector.client.get_prompt({"unique_identifier": "47af3b6af20cd7a(...)cd3b98c078de8"})
-
-unique_identifiers = []
-prompts = connector.client.get_prompts({"unique_identifier": { "$in": unique_identifiers }}) # Returns a Cursor
-prompts = list(prompts) # Cast Cursor to list
-```
-
-### Add batches
-
-```python
-from models.Batch import Batch
-from prompting.create_batch import get_sample
-
-batch = Batch(
-    question_ids=get_sample(size=1000),
-    size=sample_size,
-)
-
-batch = connector.client.add_batch(batch)
-```
-
-### Get one or more batches
-
-```python
-from bson import ObjectId
-batch = connector.client.get_batch({"_id_": ObjectId("66e30fdd937b37056f9e3d40")})
-
-unique_identifiers = []
-batchs = connector.client.get_batches({"unique_identifier": { "$in": unique_identifiers }}) # Returns a Cursor
-batchs = list(batchs) # Cast Cursor to list
-```
-
-### Add prompt runs
-```python
-from models.Prompt import PromptRun
-
-prompt_run = PromptRun(
-    prompt_id=prompt["unique_identifier"],
-    batch_id=batch_id,
-    parameters={"temperature": 0, "model": "gpt-3.5-turbo", "type": "zero-shot"},
-    timestamp=int(time.time()),
-    name="Zero-shot [FR] OpenAI"
-)
-prompt_run = connector.client.add_prompt_run(prompt_run)
-```
-
-### Get prompt runs
-
-```python
-from bson import ObjectId
-
-run = connector.client.get_prompt_run({
-    "_id": ObjectId(run_id)
-})
-```
-
-### Add prompt results
-
-```python
-from models.Prompt import PromptResult
-
-prompt_result = PromptResult(
-    run_id="66e4141(...)094409b",
-    question_id="13-131118QE",
-    batch_id="66e4141(...)094409b",
-    prompt_id="913db8de6f9c326f(...)4362138e2a48e24e34",
-    response="administration",
-    response_tokens=response_tokens,
-    prompt_tokens=prompt_tokens,
-    legislature=legislature,
-    confidence=confidence,
-)
-
-connector.client.add_prompt_result(prompt_result)
-```
-
-### Get one or more prompt results
-
-```python
-run_results = connector.client.get_prompt_results({"run_id": run_id}) # Returns a Cursor
-run_results_list = list(run_results) # Cast Cursor to list
-```
-
-### Update many
-
-For example, to update many PromptResults
-
-```python
-# This will rename the "question_theme_mapping" column to "gold_label" for every PromptResult in the database
-connector.client.update_many_prompt_results({"$rename": {"question_theme_mapping": "gold_label"}})
-
-# This will remove the "confidence" column for every PromptResult in the database
-connector.client.update_many_prompt_results({"$unset": {"confidence": ""}})
-
-# This will add a column named "wrapper" with the value of ""
-connector.client.update_many_prompt_results({"$set": {"wrapper": "openai"}})
-```
-
 # Measurements
 
 ### Precision
@@ -315,13 +63,45 @@ $$F_1 = 2 \times \frac{\text{precision} \times \text{recall}}{\text{precision} +
 
 ### Expected Calibration Error (ECE)
 
+Expected Calibration Error (ECE) is a metric that measures how well the predicted probabilities of a model align with the actual outcomes. ECE is useful when dealing with models that output confidence scores or probabilities, as it shows whether the model’s confidence matches its accuracy.
+
+For example, if a model predicts something with 80% confidence, it should be correct 80% of the time for that prediction to be considered well-calibrated.
+
+How is it calculated:
+
+ECE is computed by grouping predictions into bins based on their predicted probability (e.g., 10 bins for probabilities ranging from 0 to 1). For each bin, the difference between the average predicted confidence and the actual accuracy in that bin is calculated. The final ECE is a weighted average of these differences, where the weight corresponds to the number of samples in each bin.
+
 ### Krippendorff's alpha
+
+Krippendorff's alpha is a reliability metric used to measure the agreement between multiple raters or coders. It accounts for the possibility of the agreement occurring by chance and can handle multiple coders, missing data, and different types of data (nominal, ordinal, interval, or ratio scales).
+
+How is it calculated:
+
+Krippendorff’s alpha is calculated by comparing observed disagreement to expected disagreement (i.e., how often coders agree compared to what would be expected by random chance).
+
+$$\alpha = 1 - \frac{D_o}{D_e}$$
+
+where:
+- \( D_o \) is the observed disagreement.
+- \( D_e \) is the expected disagreement by chance.
+
+A higher value (closer to 1) indicates better agreement.
 
 ### Cohen's kappa
 
-### Student's t-test
+Cohen's kappa is a statistical measure used to assess the inter-rater agreement between two raters. Like Krippendorff’s alpha, Cohen’s kappa accounts for the possibility of agreement occurring by chance.
 
-### Chi-squared test
+How is it calculated:
+
+Cohen’s kappa compares the observed agreement (how often the two raters agree) with the expected agreement (how often the two raters would agree by random chance).
+
+$$\kappa = \frac{P_o - P_e}{1 - P_e}$$
+
+where:
+- \( P_o \) is the observed agreement.
+- \( P_e \) is the expected agreement by chance.
+
+A kappa of 1 indicates perfect agreement, while 0 indicates no agreement better than chance.
 
 # How to prompt
 
@@ -360,11 +140,11 @@ $$F_1 = 2 \times \frac{\text{precision} \times \text{recall}}{\text{precision} +
   - [docs](https://replicate.com/docs/get-started/python)
   - [pricing](https://replicate.com/pricing)
 
-# Run an experiment
+# Running an experiment
 
 ### Select the experiment
 
-Once you know which experiment you want to run, select and edit an associated notebook to create a run for a specific batch of questions. The run can take up to an hour if lots of requests are done within an hour. Once the run is finished, you can plot the results using the associated `plot_results.ipynb` notebook. Be thorough to report all the results into the associated Notion page.
+Once you know which experiment you want to run, select and edit an associated notebook to create a run for a specific batch of questions. The run can take up to an hour if lots of requests are done within an hour. Once the run is finished, you can plot the results using the associated `analysis.ipynb` notebook.
 
 ```
 Available models (based on selected Wrapper, sorted by pricing) :
@@ -396,8 +176,11 @@ Defines an existing questions list on which to rerun a new experiment
 (either 'None' or an existing ID in the database)
 
 QUESTION_SIZE_SAMPLE :
-Define the size of the question batch on which to run the experiment. Defaults to 1000, more questions results in a more cost-effective run
+Define the size of the question batch on which to run the experiment. Defaults to 1500, more questions results in a more cost-effective run
 
-COMMENT :
+DESCRIPTION :
 Add contextual information to the prompt run
+
+NAME :
+Add a unique name for the prompt run
 ```
