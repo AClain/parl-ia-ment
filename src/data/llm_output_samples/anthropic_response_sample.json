@@ -1,0 +1,10 @@
+{
+  "id": "msg_01WZevYkJg6",
+  "content": [{ "text": "retraites", "type": "text" }],
+  "model": "claude-3-5-sonnet-20240620",
+  "role": "assistant",
+  "stop_reason": "end_turn",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": { "input_tokens": 504, "output_tokens": 6 }
+}

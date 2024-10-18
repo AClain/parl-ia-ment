@@ -1,0 +1,5531 @@
+[
+  {
+    "name": "animaux, agriculture et agroalimentaire",
+    "total": 0,
+    "level": 3,
+    "children": [
+      {
+        "name": "agriculture et agroalimentaire",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "agriculture",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Agriculture", "total": 0, "level": 0 },
+              { "name": "agriculture", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "agroalimentaire",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Agro-alimentaire", "total": 0, "level": 0 },
+              { "name": "Agroalimentaire", "total": 0, "level": 0 },
+              { "name": "agroalimentaire", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "c\u00e9r\u00e9ales",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Cereales", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "engrais",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Engrais", "total": 0, "level": 0 },
+              { "name": "Engrais et amendements", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "fruits et l\u00e9gumes",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Fruits et legumes", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "horticulture",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Horticulture", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "lait et produits laitiers",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Lait et produits laitiers", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "probl\u00e8mes fonciers agricoles",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Problemes fonciers agricoles", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "produits agricoles et alimentaires",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "Produits agricoles et alimentaires",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "vin et viticulture",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Vin et viticulture", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "viandes",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Viandes", "total": 0, "level": 0 }]
+          }
+        ]
+      },
+      {
+        "name": "animaux",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "abattage",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Abattage", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "animaux",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Animaux", "total": 0, "level": 0 },
+              { "name": "animaux", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "aquaculture, p\u00eache et chasse",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "aquaculture et p\u00eache professionnelle",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Aquaculture", "total": 0, "level": 0 },
+              {
+                "name": "aquaculture et p\u00eache professionnelle",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "chasse et p\u00eache",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Chasse", "total": 0, "level": 0 },
+              { "name": "Chasse et peche", "total": 0, "level": 0 },
+              { "name": "chasse et p\u00eache", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "p\u00eache en eau douce",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Peche en eau douce", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "p\u00eache maritime",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Peche maritime", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "produits d'eau douce et de la mer",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "Poissons et produits d'eau douce et de la mer",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "Produits d'eau douce et de la mer",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "boissons et alcools",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "boissons et alcools",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "alcools et boissons alcoolis\u00e9es",
+                "total": 0,
+                "level": 0
+              },
+              { "name": "Boissons et alcools", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "\u00e9levage",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "\u00e9levage",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Elevage", "total": 0, "level": 0 },
+              { "name": "\u00e9levage", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "anciens combattants et victimes de guerre",
+    "total": 0,
+    "level": 3,
+    "children": [
+      {
+        "name": "anciens combattants et victimes de guerre",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "anciens combattants et victimes de guerre",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "Anciens combattants et victimes de guerre",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "anciens combattants et victimes de guerre",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "dommages de guerre",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Dommages de guerre", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "pensions militaires d'invalidit\u00e9",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "pensions militaires d'invalidit\u00e9",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "Pensions militaires d'invalidite",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "Pensions militaires d'invalidite et des victimes de guerre",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "pensions militaires d'invalidit\u00e9",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "banques et activit\u00e9s financi\u00e8res",
+    "total": 0,
+    "level": 3,
+    "children": [
+      {
+        "name": "banques et activit\u00e9s financi\u00e8res",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "banques et \u00e9tablissements financiers",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "Banques et etablissements financiers",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "banques et \u00e9tablissements financiers",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "\u00e9pargne",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Epargne", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "march\u00e9s financiers",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Marches financiers", "total": 0, "level": 0 },
+              { "name": "march\u00e9s financiers", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "monnaie",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Monnaie", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "moyens de paiement",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Moyens de paiement", "total": 0, "level": 0 },
+              { "name": "moyens de paiement", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "culture, communication et num\u00e9rique",
+    "total": 0,
+    "level": 3,
+    "children": [
+      {
+        "name": "audiovisuel et communication",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "audiovisuel et communication",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Audiovisuel", "total": 0, "level": 0 },
+              {
+                "name": "audiovisuel et communication",
+                "total": 0,
+                "level": 0
+              },
+              { "name": "Communication", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "cin\u00e9ma",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Cinema", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "radio",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Radio", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "radiodiffusion et t\u00e9l\u00e9vision",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Radiodiffusion et television", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "t\u00e9l\u00e9vision",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Television", "total": 0, "level": 0 }]
+          }
+        ]
+      },
+      {
+        "name": "culture",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "archives et biblioth\u00e8ques",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Archives", "total": 0, "level": 0 },
+              {
+                "name": "archives et biblioth\u00e8ques",
+                "total": 0,
+                "level": 0
+              },
+              { "name": "Bibliotheques", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "arts et spectacles",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Arts et spectacles", "total": 0, "level": 0 },
+              { "name": "arts et spectacles", "total": 0, "level": 0 },
+              { "name": "Spectacles", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "arts plastiques",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Arts plastiques", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "culture",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "culture", "total": 0, "level": 0 },
+              { "name": "Culture", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "musique",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Musique", "total": 0, "level": 0 }]
+          }
+        ]
+      },
+      {
+        "name": "publicit\u00e9",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "publicit\u00e9",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Publicite", "total": 0, "level": 0 },
+              { "name": "publicit\u00e9", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "num\u00e9rique",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "informatique",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Informatique", "total": 0, "level": 0 },
+              { "name": "informatique", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "internet",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Internet", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "num\u00e9rique",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "num\u00e9rique", "total": 0, "level": 0 }]
+          }
+        ]
+      },
+      {
+        "name": "patrimoine culturel",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "patrimoine",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Patrimoine", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "patrimoine culturel",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "Patrimoine archeologique, esthetique, historique et scientifique",
+                "total": 0,
+                "level": 0
+              },
+              { "name": "patrimoine culturel", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "postes et t\u00e9l\u00e9communications",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "postes",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Poste", "total": 0, "level": 0 },
+              { "name": "postes", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "postes et t\u00e9l\u00e9communications",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Postes et telecommunications", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "t\u00e9l\u00e9phone",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Telephone", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "t\u00e9l\u00e9communications",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Telecommunications", "total": 0, "level": 0 },
+              { "name": "t\u00e9l\u00e9communications", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "presse et livres",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "\u00e9dition, imprimerie et presse",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Edition", "total": 0, "level": 0 },
+              {
+                "name": "Edition, imprimerie et presse",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "imprimerie",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Imprimerie", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "livres",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Livres", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "presse et livres",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Presse", "total": 0, "level": 0 },
+              { "name": "presse et livres", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "d\u00e9fense",
+    "total": 0,
+    "level": 3,
+    "children": [
+      {
+        "name": "d\u00e9fense",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "arm\u00e9e",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Armee", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "armement",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Armement", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "d\u00e9fense",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "d\u00e9fense", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "d\u00e9fense nationale",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Defense nationale", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "service national",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Service national", "total": 0, "level": 0 }]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "droit et justice",
+    "total": 0,
+    "level": 3,
+    "children": [
+      {
+        "name": "professions judiciaires et juridiques",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "professions judiciaires et juridiques",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Professions judiciaires", "total": 0, "level": 0 },
+              {
+                "name": "professions judiciaires et juridiques",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "Professions judiciaires et juridiques",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "baux",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "baux",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "baux", "total": 0, "level": 0 },
+              { "name": "Baux", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "baux commerciaux",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Baux commerciaux", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "baux d'habitation",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Baux d'habitation", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "baux ruraux",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Baux ruraux", "total": 0, "level": 0 }]
+          }
+        ]
+      },
+      {
+        "name": "donations et successions",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "donations et successions",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "donations et successions", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "successions et lib\u00e9ralit\u00e9s",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Successions et liberalites", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "droit et justice",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "amnistie",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Amnistie", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "auxiliaires de justice",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Auxiliaires de justice", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "conseil d'\u00e9tat et tribunaux administratifs",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "Conseil d'Etat et tribunaux administratifs",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "constitution",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Constitution", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "contrats",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Contrats", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "cr\u00e9ances et privil\u00e8ges",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Creances et privileges", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "droit p\u00e9nal",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "droit p\u00e9nal", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "huissiers de justice",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Huissiers de justice", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "journaux officiels",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "Journaux et bulletins officiels",
+                "total": 0,
+                "level": 0
+              },
+              { "name": "Journaux officiels", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "juridictions administratives",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Juridictions administratives", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "justice",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Justice", "total": 0, "level": 0 },
+              { "name": "justice", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "lois",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "lois", "total": 0, "level": 0 },
+              { "name": "Lois", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "magistrature",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Magistrature", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "m\u00e9diateur",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Mediateur", "total": 0, "level": 0 },
+              { "name": "Mediateur de la Republique", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "normes",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Normes", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "obligation alimentaire",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Obligation alimentaire", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "ordonnances",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Ordonnances", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "proc\u00e9dure civile",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Procedure civile", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "proc\u00e9dure p\u00e9nale",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Procedure penale", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "rentes viag\u00e8res",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Rentes viageres", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "saisies",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Saisies", "total": 0, "level": 0 },
+              { "name": "Saisies et sequestres", "total": 0, "level": 0 },
+              {
+                "name": "saisies et s\u00fbret\u00e9s",
+                "total": 0,
+                "level": 0
+              },
+              { "name": "Suretes", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "droits de l'homme et libert\u00e9s publiques",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "droits de l'homme et libert\u00e9s publiques",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Droits de l'homme", "total": 0, "level": 0 },
+              {
+                "name": "Droits de l'homme et libertes publiques",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "droits de l'Homme et libert\u00e9s publiques",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "droits de l'homme et libert\u00e9s publiques",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "droits fondamentaux",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "droits fondamentaux", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "libert\u00e9s publiques",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Libertes publiques", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "\u00e9changes, diplomatie et relations internationales",
+    "total": 0,
+    "level": 3,
+    "children": [
+      {
+        "name": "rapatri\u00e9s",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "rapatri\u00e9s",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Rapatries", "total": 0, "level": 0 },
+              { "name": "rapatri\u00e9s", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "trait\u00e9s et conventions",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "trait\u00e9s et conventions",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "Conferences et conventions internationales",
+                "total": 0,
+                "level": 0
+              },
+              { "name": "Traites et conventions", "total": 0, "level": 0 },
+              { "name": "trait\u00e9s et conventions", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "commerce ext\u00e9rieur",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "bureautique",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Bureautique", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "commerce ext\u00e9rieur",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Commerce exterieur", "total": 0, "level": 0 },
+              { "name": "commerce ext\u00e9rieur", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "commerce international",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Commerce international", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "diplomatie et relations internationales",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "action humanitaire",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "action humanitaire", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "ambassades et consulats",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "ambassades et consulats", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "coop\u00e9rants",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Cooperants", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "coop\u00e9ration et d\u00e9veloppement",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Cooperation et developpement", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "corps diplomatique et consulaire",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "corps diplomatique et consulaire",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "Corps diplomatique et consulaire",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "organisations internationales",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "organisations internationales",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "Organisations internationales",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "relations internationales",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Relations internationales", "total": 0, "level": 0 },
+              { "name": "relations internationales", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "politique ext\u00e9rieure",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "politique ext\u00e9rieure",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Politique exterieure", "total": 0, "level": 0 },
+              { "name": "politique ext\u00e9rieure", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "\u00e9nergies, carburants et mati\u00e8res premi\u00e8res",
+    "total": 0,
+    "level": 3,
+    "children": [
+      {
+        "name": "\u00e9nergies, carburants et mati\u00e8res premi\u00e8res",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "charbon",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Charbon", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "\u00e9lectricit\u00e9 et gaz",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Electricite et gaz", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "\u00e9nergie et carburants",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Energie", "total": 0, "level": 0 },
+              { "name": "Energie nucleaire", "total": 0, "level": 0 },
+              { "name": "\u00e9nergie et carburants", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "mati\u00e8res premi\u00e8res",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Matieres premieres", "total": 0, "level": 0 },
+              { "name": "mati\u00e8res premi\u00e8res", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "minerais et m\u00e9taux",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Metaux", "total": 0, "level": 0 },
+              { "name": "Minerais", "total": 0, "level": 0 },
+              { "name": "Minerais et metaux", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "min\u00e9raux",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Mineraux", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "mines et carri\u00e8res",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Mines et carrieres", "total": 0, "level": 0 },
+              { "name": "mines et carri\u00e8res", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "or",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Or", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "p\u00e9trole et d\u00e9riv\u00e9s",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Petrole et derives", "total": 0, "level": 0 },
+              { "name": "Petrole et produits raffines", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "enseignement et recherche",
+    "total": 0,
+    "level": 3,
+    "children": [
+      {
+        "name": "politique spatiale",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "espace",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "espace", "total": 0, "level": 0 },
+              { "name": "Espace", "total": 0, "level": 0 },
+              { "name": "espace et politique spatiale", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "enseignement",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "bourses d'\u00e9tudes",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Bourses d'etudes", "total": 0, "level": 0 },
+              { "name": "bourses d'\u00e9tudes", "total": 0, "level": 0 },
+              {
+                "name": "Bourses et allocations d'etudes",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "\u00e9ducation physique et sportive",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "Education physique et sportive",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "\u00e9ducation physique et sportive",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "\u00e9ducation surveill\u00e9e",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Education surveillee", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "enseignement",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "enseignement", "total": 0, "level": 0 },
+              { "name": "Enseignement", "total": 0, "level": 0 },
+              { "name": "enseignement : personnel", "total": 0, "level": 0 },
+              { "name": "Enseignement : personnel", "total": 0, "level": 0 },
+              { "name": "Enseignement: personnel", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "enseignement agricole",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Enseignement agricole", "total": 0, "level": 0 },
+              { "name": "enseignement agricole", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "enseignement maternel et primaire",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "enseignement maternel et primaire",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "Enseignement maternel et primaire",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "Enseignement maternel et primaire : personnel",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "enseignement maternel et primaire : personnel",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "Enseignement maternel et primaire: personnel",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "enseignement pr\u00e9scolaire et \u00e9l\u00e9mentaire",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "Enseignement prescolaire et elementaire",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "enseignement priv\u00e9",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Enseignement prive", "total": 0, "level": 0 },
+              { "name": "enseignement priv\u00e9", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "enseignement secondaire",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Enseignement secondaire", "total": 0, "level": 0 },
+              { "name": "enseignement secondaire", "total": 0, "level": 0 },
+              {
+                "name": "enseignement secondaire : personnel",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "Enseignement secondaire : personnel",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "Enseignement secondaire: personnel",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "enseignement sup\u00e9rieur",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Enseignement superieur", "total": 0, "level": 0 },
+              {
+                "name": "Enseignement superieur : personnel",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "Enseignement superieur et postbaccalaureat",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "Enseignement superieur: personnel",
+                "total": 0,
+                "level": 0
+              },
+              { "name": "enseignement sup\u00e9rieur", "total": 0, "level": 0 },
+              {
+                "name": "enseignement sup\u00e9rieur : personnel",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "Recherche et enseignement superieur",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "enseignement technique et professionnel",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "Enseignement technique et professionnel",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "enseignement technique et professionnel",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "enseignement technique et professionnel : personnel",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "Enseignement technique et professionnel : personnel",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "enseignement artistique",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "enseignements artistiques", "total": 0, "level": 0 },
+              { "name": "Enseignements artistiques", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "examens, concours et dipl\u00f4mes",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Examens et concours", "total": 0, "level": 0 },
+              {
+                "name": "Examens, concours et diplomes",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "examens, concours et dipl\u00f4mes",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "grandes \u00e9coles",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Grandes ecoles", "total": 0, "level": 0 },
+              { "name": "grandes \u00e9coles", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "illettrisme",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "illettrisme", "total": 0, "level": 0 }]
+          }
+        ]
+      },
+      {
+        "name": "propri\u00e9t\u00e9 intellectuelle",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "propri\u00e9t\u00e9 industrielle",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Propriete industrielle", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "propri\u00e9t\u00e9 intellectuelle",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Propriete intellectuelle", "total": 0, "level": 0 },
+              {
+                "name": "propri\u00e9t\u00e9 intellectuelle",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "recherche et innovation",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "nouvelles technologies",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "nouvelles technologies", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "recherche",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Recherche", "total": 0, "level": 0 },
+              { "name": "recherche", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "recherche et innovation",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "recherche et innovation", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "recherche scientifique et technique",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "Recherche scientifique et technique",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "environnement",
+    "total": 0,
+    "level": 3,
+    "children": [
+      {
+        "name": "catastrophes et risques naturels",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "catastrophes naturelles",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Calamites et catastrophes", "total": 0, "level": 0 },
+              { "name": "catastrophes naturelles", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "risques naturels",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Risques naturels", "total": 0, "level": 0 }]
+          }
+        ]
+      },
+      {
+        "name": "d\u00e9chets, pollution et nuisances",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "d\u00e9chets, pollution et nuisances",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "Dechets et produits de la recuperation",
+                "total": 0,
+                "level": 0
+              },
+              { "name": "d\u00e9chets", "total": 0, "level": 0 },
+              {
+                "name": "d\u00e9chets, pollution et nuisances",
+                "total": 0,
+                "level": 0
+              },
+              { "name": "nuisances", "total": 0, "level": 0 },
+              { "name": "Ordures et dechets", "total": 0, "level": 0 },
+              { "name": "pollution", "total": 0, "level": 0 },
+              { "name": "Pollution et nuisances", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "risques technologiques",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Risques technologiques", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "environnement",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "biodiversit\u00e9",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "biodiversit\u00e9", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "climat",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "climat", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "d\u00e9veloppement durable",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "d\u00e9veloppement durable", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "emballage",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Emballage", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "environnement",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Environnement", "total": 0, "level": 0 },
+              { "name": "environnement", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "installations class\u00e9es",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Installations classees", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "r\u00e9cup\u00e9ration",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Recuperation", "total": 0, "level": 0 }]
+          }
+        ]
+      },
+      {
+        "name": "produits dangereux",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "produits dangereux",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "produits dangereux", "total": 0, "level": 0 },
+              { "name": "Produits dangereux", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "habitat et logement",
+    "total": 0,
+    "level": 3,
+    "children": [
+      {
+        "name": "logement",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "chauffage",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Chauffage", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "copropri\u00e9t\u00e9",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Copropriete", "total": 0, "level": 0 },
+              { "name": "copropri\u00e9t\u00e9", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "domicile",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Domicile", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "logement",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Logement", "total": 0, "level": 0 },
+              { "name": "logement", "total": 0, "level": 0 },
+              { "name": "Logement : aides et prets", "total": 0, "level": 0 },
+              { "name": "Logement : aides et prets.", "total": 0, "level": 0 },
+              {
+                "name": "logement : aides et pr\u00eats",
+                "total": 0,
+                "level": 0
+              },
+              { "name": "Logement: aides et prets", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "identit\u00e9s, nationalit\u00e9s et religions",
+    "total": 0,
+    "level": 3,
+    "children": [
+      {
+        "name": "religions",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "cultes",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Cultes", "total": 0, "level": 0 },
+              { "name": "cultes", "total": 0, "level": 0 },
+              { "name": "religions et cultes", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "la\u00efcit\u00e9",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "la\u00efcit\u00e9", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "\u00e9tat civil, identit\u00e9 et nationalit\u00e9",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "\u00e9tat civil",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Etat civil", "total": 0, "level": 0 },
+              { "name": "\u00e9tat civil", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "fran\u00e7ais",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Franais", "total": 0, "level": 0 },
+              { "name": "Francais", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "fran\u00e7ais de l'\u00e9tranger",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Franais: ressortissants", "total": 0, "level": 0 },
+              { "name": "Francais : ressortissants", "total": 0, "level": 0 },
+              { "name": "Francais de l'etranger", "total": 0, "level": 0 },
+              { "name": "Francais: ressortissants", "total": 0, "level": 0 },
+              {
+                "name": "Fran\u00e7ais de l'\u00e9tranger",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "nationalit\u00e9",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Nationalite", "total": 0, "level": 0 },
+              { "name": "nationalit\u00e9", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "papiers d'identit\u00e9",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Papiers d'identite", "total": 0, "level": 0 },
+              { "name": "papiers d'identit\u00e9", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "\u00e9trangers",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "\u00e9trangers",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Etrangers", "total": 0, "level": 0 },
+              { "name": "\u00e9trangers", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "immigration",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "immigration", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "r\u00e9fugi\u00e9s et apatrides",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "r\u00e9fugi\u00e9s et apatrides",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "gens du voyage",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "gens du voyage",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Gens du voyage", "total": 0, "level": 0 },
+              { "name": "gens du voyage", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "nomades et vagabonds",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Nomades et vagabonds", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "langues",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "cultures r\u00e9gionales",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Cultures regionales", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "fran\u00e7ais : langue",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Franais: langue", "total": 0, "level": 0 },
+              { "name": "Francais : langue", "total": 0, "level": 0 },
+              { "name": "Francais: langue", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "langue fran\u00e7aise",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Langue francaise", "total": 0, "level": 0 },
+              { "name": "langue fran\u00e7aise", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "langues r\u00e9gionales",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "Langues et cultures regionales",
+                "total": 0,
+                "level": 0
+              },
+              { "name": "Langues regionales", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "imp\u00f4ts et taxes",
+    "total": 0,
+    "level": 3,
+    "children": [
+      {
+        "name": "enregistrement et timbre",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "enregistrement et timbre",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "Droits d'enregistrement et de timbre",
+                "total": 0,
+                "level": 0
+              },
+              { "name": "Enregistrement et timbre", "total": 0, "level": 0 },
+              { "name": "enregistrement et timbre", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "imp\u00f4ts et taxes",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "contributions indirectes",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Contributions indirectes", "total": 0, "level": 0 },
+              { "name": "contributions indirectes", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "imp\u00f4t de solidarit\u00e9 sur la fortune",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "Impot de solidarite sur la fortune",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "imp\u00f4t de solidarit\u00e9 sur la fortune",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "imp\u00f4t sur le revenu",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Impot sur le revenu", "total": 0, "level": 0 },
+              { "name": "imp\u00f4t sur le revenu", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "imp\u00f4t sur les grandes fortunes",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "Impot sur les grandes fortunes",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "imp\u00f4t sur les soci\u00e9t\u00e9s",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Impot sur les societes", "total": 0, "level": 0 },
+              {
+                "name": "imp\u00f4t sur les soci\u00e9t\u00e9s",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "imp\u00f4ts et taxes",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Impots et taxes", "total": 0, "level": 0 },
+              { "name": "imp\u00f4ts et taxes", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "imp\u00f4ts locaux",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Impots locaux", "total": 0, "level": 0 },
+              { "name": "Imps locaux", "total": 0, "level": 0 },
+              { "name": "imp\u00f4ts locaux", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "imp\u00f4t sur la fortune immobili\u00e8re",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "imp\u00f4t sur la fortune immobili\u00e8re",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "plus-values : imposition",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "plus-values : imposition", "total": 0, "level": 0 },
+              { "name": "Plus-values : imposition", "total": 0, "level": 0 },
+              { "name": "Plus-values: imposition", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "tva",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "T.V.A.", "total": 0, "level": 0 },
+              { "name": "TVA", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "taxes parafiscales",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "taxes parafiscales", "total": 0, "level": 0 },
+              { "name": "Taxes parafiscales", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "taxe sur la valeur ajout\u00e9e",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "taxe sur la valeur ajout\u00e9e",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "infrastructures, transports et am\u00e9nagement du territoire",
+    "total": 0,
+    "level": 3,
+    "children": [
+      {
+        "name": "am\u00e9nagement du territoire",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "am\u00e9nagement du territoire",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Amenagement du territoire", "total": 0, "level": 0 },
+              {
+                "name": "am\u00e9nagement du territoire",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "montagne",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "montagne", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "parcs naturels",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Parcs naturels", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "plan",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Plan", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "ruralit\u00e9",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "ruralit\u00e9", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "villes nouvelles",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Villes nouvelles", "total": 0, "level": 0 }]
+          }
+        ]
+      },
+      {
+        "name": "architecture et urbanisme",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "architecture",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Architecture", "total": 0, "level": 0 },
+              { "name": "architecture", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "espaces verts",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Espaces verts", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "urbanisme",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Urbanisme", "total": 0, "level": 0 },
+              { "name": "urbanisme", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "automobiles et cycles",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "automobiles et cycles",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "automobiles", "total": 0, "level": 0 },
+              { "name": "Automobiles et cycles", "total": 0, "level": 0 },
+              { "name": "automobiles et cycles", "total": 0, "level": 0 },
+              { "name": "cycles et motocycles", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "b\u00e2timents et travaux publics",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "b\u00e2timent et travaux publics",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "b\u00e2timent et travaux publics",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "mat\u00e9riaux de construction",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Materiaux de construction", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "bois et for\u00eats",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "bois et for\u00eats",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Bois et forets", "total": 0, "level": 0 },
+              { "name": "bois et for\u00eats", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "cours d'eau, \u00e9tangs et lacs",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "cours d'eau, \u00e9tangs et lacs",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Cours d'eau, etangs et lacs", "total": 0, "level": 0 },
+              {
+                "name": "cours d'eau, \u00e9tangs et lacs",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "eau et assainissement",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "eau et assainissement",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Assainissement", "total": 0, "level": 0 },
+              { "name": "eau", "total": 0, "level": 0 },
+              { "name": "Eau", "total": 0, "level": 0 },
+              { "name": "eau et assainissement", "total": 0, "level": 0 },
+              { "name": "Eau et assainissement", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "mer et littoral",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "mer et littoral",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "mer et littoral", "total": 0, "level": 0 },
+              { "name": "Mer et littoral", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "voirie",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "voirie",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "voirie", "total": 0, "level": 0 },
+              { "name": "Voirie", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "transports",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "a\u00e9roports",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Aeroports", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "aviation l\u00e9g\u00e8re",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Aviation legere", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "convoyeurs de fonds",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Convoyeurs de fonds", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "sncf",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "SNCF", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "transports urbains",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "transports urbains", "total": 0, "level": 0 },
+              { "name": "Transports urbains", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "transports routiers",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "transports routiers", "total": 0, "level": 0 },
+              { "name": "Transports routiers", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "transports par eau",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "transports par eau", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "transports maritimes",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Transports maritimes", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "transports fluviaux",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Transports fluviaux", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "transports ferroviaires",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "transports ferroviaires", "total": 0, "level": 0 },
+              { "name": "Transports ferroviaires", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "transports a\u00e9riens",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Transports aeriens", "total": 0, "level": 0 },
+              { "name": "transports a\u00e9riens", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "transports",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Transports", "total": 0, "level": 0 },
+              { "name": "transports", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "taxis",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "taxis", "total": 0, "level": 0 },
+              { "name": "Taxis", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "administration, institutions et fonctionnement de l'\u00e9tat",
+    "total": 0,
+    "level": 3,
+    "children": [
+      {
+        "name": "administration",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "actes administratifs",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Actes administratifs", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "administration",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Administration", "total": 0, "level": 0 },
+              { "name": "administration", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "ascenceurs",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Ascenseurs", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "cadastre",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Cadastre", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "domaine public et domaine priv\u00e9",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "Domaine public et domaine prive",
+                "total": 0,
+                "level": 0
+              },
+              { "name": "Domaine public et prive", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "heure l\u00e9gale",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Heure legale", "total": 0, "level": 0 },
+              { "name": "heure l\u00e9gale", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "poids et mesures",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Poids et mesures", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "sondages et enqu\u00eates",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Sondages et enquetes", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "parlement",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "parlement",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Parlement", "total": 0, "level": 0 }]
+          }
+        ]
+      },
+      {
+        "name": "partis et mouvements politiques",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "partis et mouvements politiques",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "Partis et groupements politiques",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "partis et mouvements politiques",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "Partis et mouvements politiques",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "collectivit\u00e9s territoriales",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "arrondissements",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Arrondissements", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "cantons",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Cantons", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "collectivit\u00e9s locales",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Collectivites locales", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "collectivit\u00e9s territoriales",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Collectivites territoriales", "total": 0, "level": 0 },
+              {
+                "name": "collectivit\u00e9s territoriales",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "communaut\u00e9s urbaines et districts",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "Communautes urbaines et districts",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "communes",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Communes", "total": 0, "level": 0 },
+              { "name": "communes", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "coop\u00e9ration intercommunale",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "coop\u00e9ration intercommunale",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "d\u00e9partements",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Departements", "total": 0, "level": 0 },
+              {
+                "name": "Departements et territoires d'outre-mer",
+                "total": 0,
+                "level": 0
+              },
+              { "name": "d\u00e9partements", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "\u00e9lus",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "\u00e9lus", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "groupements de communes",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Groupements de communes", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "intercommunalit\u00e9",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "intercommunalit\u00e9", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "r\u00e9gions",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Regions", "total": 0, "level": 0 },
+              { "name": "r\u00e9gions", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "d\u00e9mographie",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "d\u00e9mographie",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Demographie", "total": 0, "level": 0 },
+              { "name": "d\u00e9mographie", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "\u00e9lections et r\u00e9f\u00e9rendums",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "\u00e9lections et r\u00e9f\u00e9rendums",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Elections et referendums", "total": 0, "level": 0 },
+              {
+                "name": "\u00e9lections et r\u00e9f\u00e9rendums",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "\u00e9tat",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "conseil constitutionnel",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Conseil Constitutionnel", "total": 0, "level": 0 },
+              { "name": "Conseil constitutionnel", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "conseil \u00e9conomique et social",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Conseil economique et social", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "cour des comptes",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Cour des comptes", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "\u00e9tat",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Etat", "total": 0, "level": 0 },
+              { "name": "\u00c9tat", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "pr\u00e9sident de la r\u00e9publique",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "President de la Republique", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "services sp\u00e9ciaux",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Services speciaux", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "finances publiques",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "finances publiques",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "finances publiques", "total": 0, "level": 0 },
+              { "name": "Finances publiques", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "fonctionnaires et agents publics",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "fonction publique de l'\u00e9tat",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Fonction publique de l'Etat", "total": 0, "level": 0 },
+              { "name": "fonction publique de l'Etat", "total": 0, "level": 0 },
+              {
+                "name": "fonction publique de l'\u00c9tat",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "fonction publique territoriale",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "Fonction publique territoriale",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "fonction publique territoriale",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "fonctionnaires et agents publics",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Fonctionnaires et agents", "total": 0, "level": 0 },
+              {
+                "name": "Fonctionnaires et agents publics",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "fonctionnaires et agents publics",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "ouvriers de l'\u00e9tat",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Ouvriers de l'Etat", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "services publics",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "m\u00e9t\u00e9orologie",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Meteorologie", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "secteur public",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "secteur public", "total": 0, "level": 0 },
+              { "name": "Secteur public", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "services publics",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "services publics", "total": 0, "level": 0 }]
+          }
+        ]
+      },
+      {
+        "name": "march\u00e9s publics",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "march\u00e9s publics",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Marches publics", "total": 0, "level": 0 },
+              { "name": "march\u00e9s publics", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "minist\u00e8res et secr\u00e9tariats d'\u00e9tat",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "gouvernement",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Gouvernement", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "minist\u00e8res et secr\u00e9tariats d'\u00e9tat",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "Ministeres et secretariats d'Etat",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "minist\u00e8res et secr\u00e9tariats d'Etat",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "minist\u00e8res et secr\u00e9tariats d'\u00c9tat",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "outre-mer",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "outre-mer",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "DOM", "total": 0, "level": 0 },
+              { "name": "DOM-TOM", "total": 0, "level": 0 },
+              { "name": "outre-mer", "total": 0, "level": 0 },
+              {
+                "name": "TOM et collectivites territoriales d'outre-mer",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "symboles, d\u00e9corations et c\u00e9r\u00e9monies",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "c\u00e9r\u00e9monies publiques et f\u00eates l\u00e9gales",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "Ceremonies publiques et commemorations",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "Ceremonies publiques et fetes legales",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "c\u00e9r\u00e9monies publiques et f\u00eates l\u00e9gales",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "d\u00e9corations, insignes et embl\u00e8mes",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Decorations", "total": 0, "level": 0 },
+              {
+                "name": "d\u00e9corations, insignes et embl\u00e8mes",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "devises, hymnes et drapeaux",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Devises, hymnes et drapeaux", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "insignes et embl\u00e8mes",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Insignes et emblemes", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "politique \u00e9conomique et sociale",
+    "total": 0,
+    "level": 3,
+    "children": [
+      {
+        "name": "professions et activit\u00e9s sociales",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "professions et activit\u00e9s sociales",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "Professions et activites sociales",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "professions et activit\u00e9s sociales",
+                "total": 0,
+                "level": 0
+              },
+              { "name": "Professions sociales", "total": 0, "level": 0 },
+              { "name": "professions sociales", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "associations",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "associations",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "associations", "total": 0, "level": 0 },
+              { "name": "Associations", "total": 0, "level": 0 },
+              { "name": "associations et fondations", "total": 0, "level": 0 },
+              { "name": "Associations et mouvements", "total": 0, "level": 0 },
+              {
+                "name": "Etablissements de bienfaisance et fondations",
+                "total": 0,
+                "level": 0
+              },
+              { "name": "Fondations", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "bienfaisance",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Bienfaisance", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "coop\u00e9ratives",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Cooperatives", "total": 0, "level": 0 }]
+          }
+        ]
+      },
+      {
+        "name": "ch\u00f4mage",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "ch\u00f4mage",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "ch\u00f4mage", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "ch\u00f4mage : indemnisation",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Chomage : indemnisation", "total": 0, "level": 0 },
+              { "name": "Chomage: indemnisation", "total": 0, "level": 0 },
+              { "name": "ch\u00f4mage : indemnisation", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "d\u00e9ch\u00e9ances et incapacit\u00e9s",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "d\u00e9ch\u00e9ances et incapacit\u00e9s",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Decheances et incapacites", "total": 0, "level": 0 },
+              {
+                "name": "d\u00e9ch\u00e9ances et incapacit\u00e9s",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "\u00e9conomie sociale",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "\u00e9conomie sociale",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "\u00e9conomie sociale", "total": 0, "level": 0 },
+              {
+                "name": "\u00e9conomie sociale et solidaire",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "enfants",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "adoption",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Adoption", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "enfants",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Enfants", "total": 0, "level": 0 },
+              { "name": "enfants", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "pornographie",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Pornographie", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "protection judiciaire de la jeunesse",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "Protection judiciaire de la jeunesse",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "famille",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "divorce",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Divorce", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "famille",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Famille", "total": 0, "level": 0 },
+              { "name": "famille", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "filiation",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Filiation", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "mariage",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Mariage", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "veuvage",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Veuvage", "total": 0, "level": 0 }]
+          }
+        ]
+      },
+      {
+        "name": "handicap\u00e9s",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "handicap\u00e9s",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Handicapes", "total": 0, "level": 0 },
+              { "name": "handicap\u00e9s", "total": 0, "level": 0 },
+              { "name": "personnes handicap\u00e9es", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "jeunes",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "jeunes",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "jeunes", "total": 0, "level": 0 },
+              { "name": "Jeunes", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "personnes \u00e2g\u00e9es",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "d\u00e9pendance",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "d\u00e9pendance", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "personnes \u00e2g\u00e9es",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Personnes agees", "total": 0, "level": 0 },
+              { "name": "personnes \u00e2g\u00e9es", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "politique sociale",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "aide sociale",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Aide sociale", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "pauvret\u00e9",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Pauvrete", "total": 0, "level": 0 },
+              { "name": "pauvret\u00e9", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "politique sociale",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Politique sociale", "total": 0, "level": 0 },
+              { "name": "politique sociale", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "politique \u00e9conomique",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "politique \u00e9conomique",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Politique economique", "total": 0, "level": 0 },
+              { "name": "politique \u00e9conomique", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "femmes",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "femmes",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "femmes", "total": 0, "level": 0 },
+              { "name": "Femmes", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "retraites",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "pensions de reversion",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Pensions de reversion", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "pr\u00e9retraites",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Preretraites", "total": 0, "level": 0 },
+              { "name": "pr\u00e9retraites", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "retraites compl\u00e9mentaires",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Retraites complementaires", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "retraites",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "Retraite: fonctionnaires civils et militaires",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "retraites : fonctionnaires civils et militaires",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "Retraites : fonctionnaires civils et militaires",
+                "total": 0,
+                "level": 0
+              },
+              { "name": "Retraites : generalites", "total": 0, "level": 0 },
+              {
+                "name": "retraites : g\u00e9n\u00e9ralit\u00e9s",
+                "total": 0,
+                "level": 0
+              },
+              { "name": "Retraites : regime general", "total": 0, "level": 0 },
+              {
+                "name": "Retraites : regimes autonomes et speciaux",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "retraites : r\u00e9gime agricole",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "retraites : r\u00e9gime g\u00e9n\u00e9ral",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "retraites : r\u00e9gimes autonomes et sp\u00e9ciaux",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "Retraites: fonctionnaires civils et militaires",
+                "total": 0,
+                "level": 0
+              },
+              { "name": "Retraites: generalites", "total": 0, "level": 0 },
+              { "name": "Retraites: regime general", "total": 0, "level": 0 },
+              {
+                "name": "Retraites: regimes autonomes et speciaux",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "s\u00e9curit\u00e9 sociale",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "assurance invalidit\u00e9 d\u00e9c\u00e8s",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Assurance invalidite deces", "total": 0, "level": 0 },
+              {
+                "name": "assurance invalidit\u00e9 d\u00e9c\u00e8s",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "assurance maladie maternit\u00e9",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Assurance maladie maternite", "total": 0, "level": 0 },
+              {
+                "name": "Assurance maladie maternite : generalites",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "Assurance maladie maternite : prestations",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "Assurance maladie maternite: generalites",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "Assurance maladie maternite: prestations",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "assurance maladie maternit\u00e9",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "assurance maladie maternit\u00e9 : g\u00e9n\u00e9ralit\u00e9s",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "assurance maladie maternit\u00e9 : prestations",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "assurance vieillesse",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "Assurance vieillesse: generalites",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "Assurance vieillesse: regime des fonctionnaires civils et militaires",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "Assurance vieillesse: regime general",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "Assurance vieillesse: regimes autonomes et speciaux",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "mutualit\u00e9 sociale agricole",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Mutualite sociale agricole", "total": 0, "level": 0 },
+              {
+                "name": "Mutualit\u00e9 sociale agricole",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "prestations familiales",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Prestations familiales", "total": 0, "level": 0 },
+              { "name": "prestations familiales", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "r\u00e9gime social des ind\u00e9pendants",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "r\u00e9gime social des ind\u00e9pendants",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "s\u00e9curit\u00e9 sociale",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Securite sociale", "total": 0, "level": 0 },
+              { "name": "s\u00e9curit\u00e9 sociale", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "s\u00e9curit\u00e9 et ordre public",
+    "total": 0,
+    "level": 3,
+    "children": [
+      {
+        "name": "sectes et \u00e9sot\u00e9risme",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "\u00e9sot\u00e9risme",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Esoterisme", "total": 0, "level": 0 },
+              { "name": "\u00e9sot\u00e9risme", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "sectes et soci\u00e9t\u00e9s secr\u00e8tes",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Sectes", "total": 0, "level": 0 },
+              { "name": "Sectes et societes secretes", "total": 0, "level": 0 },
+              {
+                "name": "sectes et soci\u00e9t\u00e9s secr\u00e8tes",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "armes",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "armes",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Armes", "total": 0, "level": 0 },
+              { "name": "armes", "total": 0, "level": 0 },
+              { "name": "Armes et munitions", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "d\u00e9linquance et criminalit\u00e9",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "aide aux victimes",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "aide aux victimes", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "crimes, d\u00e9lits et contraventions",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "Crimes, delits et contraventions",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "crimes, d\u00e9lits et contraventions",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "d\u00e9linquance et criminalit\u00e9",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Delinquance et criminalite", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "harc\u00e8lement",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "harc\u00e8lement", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "propri\u00e9t\u00e9",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Propriete", "total": 0, "level": 0 },
+              { "name": "propri\u00e9t\u00e9", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "prostitution",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Prostitution", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "terrorisme",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "terrorisme", "total": 0, "level": 0 }]
+          }
+        ]
+      },
+      {
+        "name": "discriminations",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "discriminations",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "discriminations", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "\u00e9galit\u00e9 des sexes et parit\u00e9",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "\u00e9galit\u00e9 des sexes et parit\u00e9",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "racisme",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Racisme", "total": 0, "level": 0 }]
+          }
+        ]
+      },
+      {
+        "name": "douanes",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "douanes",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Douanes", "total": 0, "level": 0 }]
+          }
+        ]
+      },
+      {
+        "name": "drogue",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "drogue",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "drogue", "total": 0, "level": 0 },
+              { "name": "Drogue", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "jeux et paris",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "jeux et paris",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Jeux et paris", "total": 0, "level": 0 },
+              { "name": "jeux et paris", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "gendarmerie",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "gendarmerie",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "gendarmerie", "total": 0, "level": 0 },
+              { "name": "Gendarmerie", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "police",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "police",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "police", "total": 0, "level": 0 },
+              { "name": "Police", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "police municipale",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Police municipale", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ordre public",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "ordre public",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "ordre public", "total": 0, "level": 0 },
+              { "name": "Ordre public", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "syst\u00e8me p\u00e9nitentiaire",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "lieux de privation de libert\u00e9",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "lieux de privation de libert\u00e9",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "syst\u00e8me p\u00e9nitentiaire",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "Administration et regimes penitentiaires",
+                "total": 0,
+                "level": 0
+              },
+              { "name": "Systeme penitentiaire", "total": 0, "level": 0 },
+              {
+                "name": "syst\u00e8me p\u00e9nitentiaire",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "s\u00e9curit\u00e9 publique",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "s\u00e9curit\u00e9 civile",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Securite civile", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "s\u00e9curit\u00e9 des biens et des personnes",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "s\u00e9curit\u00e9 des biens et des personnes",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "s\u00e9curit\u00e9 publique",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "s\u00e9curit\u00e9 publique", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "s\u00e9curit\u00e9 routi\u00e8re",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "circulation routi\u00e8re",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Circulation routiere", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "permis de conduire",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Permis de conduire", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "stationnement",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Stationnement", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "s\u00e9curit\u00e9 routi\u00e8re",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Securite routiere", "total": 0, "level": 0 },
+              {
+                "name": "s\u00e9curit\u00e9 routi\u00e8re",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "vignettes",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Vignettes", "total": 0, "level": 0 }]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "services, commerce et artisanat",
+    "total": 0,
+    "level": 3,
+    "children": [
+      {
+        "name": "ventes et \u00e9changes",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "ventes et \u00e9changes",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Vente et echanges", "total": 0, "level": 0 },
+              {
+                "name": "ventes et commerce \u00e9lectronique",
+                "total": 0,
+                "level": 0
+              },
+              { "name": "Ventes et echanges", "total": 0, "level": 0 },
+              { "name": "ventes et \u00e9changes", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "assurances",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "assurance compl\u00e9mentaire",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "assurance compl\u00e9mentaire",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "assurances",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Assurances", "total": 0, "level": 0 },
+              { "name": "assurances", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "mutuelles",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Mutuelles", "total": 0, "level": 0 },
+              { "name": "Mutuelles: societes", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "commerce et artisanat",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "bijouterie et horlogerie",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Bijouterie et horlogerie", "total": 0, "level": 0 },
+              {
+                "name": "Bijoux et produits de l'horlogerie",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "boulangerie et p\u00e2tisserie",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Boulangerie et patisserie", "total": 0, "level": 0 },
+              { "name": "Boulangerie patisserie", "total": 0, "level": 0 },
+              {
+                "name": "Pain, patisserie et confiserie",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "commerce et artisanat",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "commerce et artisanat", "total": 0, "level": 0 },
+              { "name": "Commerce et artisanat", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "foires et expositions",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Foires et expositions", "total": 0, "level": 0 },
+              { "name": "Foires et marches", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "grande distribution",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Grande distribution", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "march\u00e9s d'int\u00e9r\u00eat national",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Marches d'interet national", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "objets d'art, collections, antiquit\u00e9s",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "Objets d'art et de collection",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "Objets d'art et de collection et antiquites",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "Objets d'art, collections, antiquites",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "tabac",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Tabac", "total": 0, "level": 0 },
+              { "name": "Tabacs et allumettes", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "vrp",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "VRP", "total": 0, "level": 0 }]
+          }
+        ]
+      },
+      {
+        "name": "consommation",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "concurrence",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Concurrence", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "consommation",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "consommation", "total": 0, "level": 0 },
+              { "name": "Consommation", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "jouets",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Jouets", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "pouvoir d'achat",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "pouvoir d'achat", "total": 0, "level": 0 }]
+          }
+        ]
+      },
+      {
+        "name": "h\u00f4tellerie et restauration",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "h\u00f4tellerie et restauration",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Hotellerie et restauration", "total": 0, "level": 0 },
+              {
+                "name": "h\u00f4tellerie et restauration",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "services",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "coiffure",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Coiffure", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "cr\u00e8ches et garderies",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Creches et garderies", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "employ\u00e9s de maison",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Employes de maison", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "gardiennage",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Gardiennage", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "nettoyage",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Nettoyage", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "services",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Services", "total": 0, "level": 0 },
+              { "name": "services", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "services \u00e0 la personne",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "services \u00e0 la personne", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "tourisme et loisirs",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "tourisme et loisirs",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "tourisme et loisirs", "total": 0, "level": 0 },
+              { "name": "Tourisme et loisirs", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "soins et sant\u00e9",
+    "total": 0,
+    "level": 3,
+    "children": [
+      {
+        "name": "sang et organes humains",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "sang et organes humains",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Organes humains", "total": 0, "level": 0 },
+              { "name": "Sang", "total": 0, "level": 0 },
+              { "name": "Sang et organes humains", "total": 0, "level": 0 },
+              { "name": "sang et organes humains", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "\u00e9tablissements de sant\u00e9",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "centres de conseils et de soins",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "Centres de conseils et de soins",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "\u00e9tablissements de sant\u00e9",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "Etablissements d'hospitalisation, de soins et de cure",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "Etablissements de soins et de cure",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "Etablissements sociaux et de soins",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "\u00e9tablissements de sant\u00e9",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "h\u00f4pitaux et cliniques",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Hopitaux et cliniques", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "laboratoires d'analyses",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Laboratoires", "total": 0, "level": 0 },
+              { "name": "Laboratoires d'analyses", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "institutions sociales et m\u00e9dico-sociales",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "institutions sociales et m\u00e9dico-sociales",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "Institutions sociales et medico-sociales",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "institutions sociales et m\u00e9dico sociales",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "institutions sociales et m\u00e9dico-sociales",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "mort",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "cimeti\u00e8res",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Cimetieres", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "mort",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Mort", "total": 0, "level": 0 },
+              { "name": "mort", "total": 0, "level": 0 },
+              { "name": "mort et d\u00e9c\u00e8s", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "professions de sant\u00e9",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "fonction publique hospitali\u00e8re",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "Fonction publique hospitaliere",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "fonction publique hospitali\u00e8re",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "infirmiers et infirmi\u00e8res",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Infirmiers et infirmieres", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "masseurs-kin\u00e9sith\u00e9rapeutes",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Masseurs-kinesitherapeutes", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "optique et pr\u00e9cision",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "Instruments de precision et d'optique",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "Optique et instruments de precision",
+                "total": 0,
+                "level": 0
+              },
+              { "name": "Optique et precision", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "professions de sant\u00e9",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "professions de sant\u00e9", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "professions m\u00e9dicales",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "Professions et activites medicales",
+                "total": 0,
+                "level": 0
+              },
+              { "name": "Professions medicales", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "professions param\u00e9dicales",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "Professions et activites paramedicales",
+                "total": 0,
+                "level": 0
+              },
+              { "name": "Professions paramedicales", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "psychologues",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Psychologues", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "v\u00e9t\u00e9rinaires",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Veterinaires", "total": 0, "level": 0 }]
+          }
+        ]
+      },
+      {
+        "name": "sant\u00e9",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "accidents domestiques",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Accidents domestiques", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "avortement",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "avortement", "total": 0, "level": 0 },
+              { "name": "Avortement", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "bio\u00e9thique",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Bioethique", "total": 0, "level": 0 },
+              { "name": "bio\u00e9thique", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "contraception",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "contraception", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "cures",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Cures", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "fin de vie et soins palliatifs",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "fin de vie et soins palliatifs",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "interruption volontaire de grossesse",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "interruption volontaire de grossesse",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "maladies",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "maladies", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "mat\u00e9riel m\u00e9dico-chirurgical",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Materiel medico-chirurgical", "total": 0, "level": 0 },
+              {
+                "name": "Materiel medico-chirurgical et protheses",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "m\u00e9decine scolaire et universitaire",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "Medecine scolaire et universitaire",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "m\u00e9decine",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "m\u00e9decine", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "m\u00e9decines parall\u00e8les",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Medecines paralleles", "total": 0, "level": 0 },
+              { "name": "m\u00e9decines alternatives", "total": 0, "level": 0 },
+              {
+                "name": "m\u00e9decines parall\u00e8les",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "naissance",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Naissance", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "pharmacie et m\u00e9dicaments",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Medicaments", "total": 0, "level": 0 },
+              { "name": "Pharmacie", "total": 0, "level": 0 },
+              {
+                "name": "pharmacie et m\u00e9dicaments",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "sant\u00e9 publique",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Sante publique", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "sant\u00e9",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "sant\u00e9", "total": 0, "level": 0 }]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "sports",
+    "total": 0,
+    "level": 3,
+    "children": [
+      {
+        "name": "sports",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "sports",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Sports", "total": 0, "level": 0 },
+              { "name": "sports", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "syst\u00e8me productif et vie professionnelle",
+    "total": 0,
+    "level": 3,
+    "children": [
+      {
+        "name": "chambres consulaires",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "chambres consulaires",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "chambres consulaires", "total": 0, "level": 0 },
+              { "name": "Chambres consulaires", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "syndicats",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "syndicats",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "syndicats", "total": 0, "level": 0 },
+              { "name": "Syndicats", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "syndicats professionnels",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Syndicats professionnels", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "emploi",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "emploi",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "emploi", "total": 0, "level": 0 },
+              { "name": "Emploi", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "emploi et activit\u00e9",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Emploi et activite", "total": 0, "level": 0 },
+              { "name": "emploi et activit\u00e9", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "emplois reserv\u00e9s",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Emplois reserves", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "licenciement",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Licenciement", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "salaires",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Salaires", "total": 0, "level": 0 }]
+          }
+        ]
+      },
+      {
+        "name": "entreprises",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "difficult\u00e9s des entreprises",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Difficultes des entreprises", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "entreprises",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "entreprises", "total": 0, "level": 0 },
+              { "name": "Entreprises", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "ing\u00e9nierie",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Ingenierie", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "participation",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Participation", "total": 0, "level": 0 },
+              {
+                "name": "Participation des travailleurs",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "soci\u00e9t\u00e9s",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Societes", "total": 0, "level": 0 },
+              { "name": "soci\u00e9t\u00e9s", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "formation professionnelle",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "formation professionnelle",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Apprentissage", "total": 0, "level": 0 },
+              { "name": "Formation professionnelle", "total": 0, "level": 0 },
+              { "name": "formation professionnelle", "total": 0, "level": 0 },
+              {
+                "name": "formation professionnelle et apprentissage",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "Formation professionnelle et promotion sociale",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "orientation scolaire et professionnelle",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "Orientation scolaire et professionnelle",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "industrie",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "ameublement",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Ameublement", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "appareils m\u00e9nagers",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Appareils menagers", "total": 0, "level": 0 },
+              { "name": "Equipement menager", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "caoutchouc",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Caoutchouc", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "c\u00e9ramique",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Ceramique", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "chantiers navals",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Chantiers navals", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "chaussures",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Chaussures", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "chimie",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Chimie", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "constructions a\u00e9ronautiques",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Construction aeronautique", "total": 0, "level": 0 },
+              { "name": "Constructions aeronautiques", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "constructions navales",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Construction navale", "total": 0, "level": 0 },
+              { "name": "Constructions navales", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "\u00e9quipements industriels",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Equipements industriels", "total": 0, "level": 0 },
+              {
+                "name": "Equipements industriels et machines-outils",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "industrie",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "industrie", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "industrie a\u00e9ronautique",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Industrie aeronautique", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "industrie, p et t et tourisme",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "Industrie, P et T et tourisme",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "mat\u00e9riels agricoles",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Materiels agricoles", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "mat\u00e9riels de manutention et de travaux publics",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "Materiels de manutention et de travaux publics",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "mat\u00e9riels \u00e9lectriques et \u00e9lectroniques",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "Materiels electriques et electroniques",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "mat\u00e9riels ferroviaires",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Materiels ferroviaires", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "mati\u00e8res plastiques",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Matieres plastiques", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "papier et carton",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Papier et carton", "total": 0, "level": 0 },
+              { "name": "Papiers et cartons", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "parfumerie",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Parfumerie", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "politique industrielle",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Politique industrielle", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "produits de luxe",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Produits de luxe", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "produits manufactur\u00e9s",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Produits manufactures", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "sid\u00e9rurgie",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Siderurgie", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "verre",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Verre", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "habillement, cuirs et textiles",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Cuir", "total": 0, "level": 0 },
+              {
+                "name": "Habillement, cuirs et textiles",
+                "total": 0,
+                "level": 0
+              },
+              { "name": "Textile et habillement", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "professions lib\u00e9rales",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "comptables",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Comptables", "total": 0, "level": 0 },
+              { "name": "Professions comptables", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "notariat",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Notariat", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "professions immobili\u00e8res",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "Professions et activites immobilieres",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "professions et activit\u00e9s immobili\u00e8res",
+                "total": 0,
+                "level": 0
+              },
+              { "name": "Professions immobilieres", "total": 0, "level": 0 },
+              {
+                "name": "professions immobili\u00e8res",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "professions lib\u00e9rales",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Professions liberales", "total": 0, "level": 0 },
+              { "name": "professions lib\u00e9rales", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "risques professionnels",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "accidents du travail et maladies professionnelles",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "Accidents du travail et maladies professionnelles",
+                "total": 0,
+                "level": 0
+              },
+              {
+                "name": "accidents du travail et maladies professionnelles",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "risques professionnels",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "risques professionnels", "total": 0, "level": 0 },
+              { "name": "Risques professionnels", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "travail",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "conflits du travail",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Conflits du travail", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "cong\u00e9s et vacances",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Conges et vacances", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "\u00e9lections professionnelles et sociales",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "Elections professionnelles et sociales",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "encadrement",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Encadrement", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "frontaliers",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Frontaliers", "total": 0, "level": 0 },
+              { "name": "frontaliers", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "gr\u00e8ve",
+            "total": 0,
+            "level": 1,
+            "children": [{ "name": "Greve", "total": 0, "level": 0 }]
+          },
+          {
+            "name": "travailleurs ind\u00e9pendants et autoentrepreneurs",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Travailleurs independants", "total": 0, "level": 0 },
+              {
+                "name": "travailleurs ind\u00e9pendants et autoentrepreneurs",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "travail",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "travail", "total": 0, "level": 0 },
+              { "name": "Travail", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "union europ\u00e9enne",
+    "total": 0,
+    "level": 3,
+    "children": [
+      {
+        "name": "union europ\u00e9enne",
+        "total": 0,
+        "level": 2,
+        "children": [
+          {
+            "name": "communaut\u00e9s europ\u00e9ennes",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Communautes europeennes", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "institutions communautaires",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Institutions communautaires", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "institutions europ\u00e9ennes",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Institutions europeennes", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "organisations europ\u00e9ennes",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Organisations europeennes", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "politiques communautaires",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "politiques communautaires", "total": 0, "level": 0 },
+              { "name": "Politiques communautaires", "total": 0, "level": 0 }
+            ]
+          },
+          {
+            "name": "r\u00e8gles communautaires : application",
+            "total": 0,
+            "level": 1,
+            "children": [
+              {
+                "name": "Regles communautaires : application",
+                "total": 0,
+                "level": 0
+              }
+            ]
+          },
+          {
+            "name": "union europ\u00e9enne",
+            "total": 0,
+            "level": 1,
+            "children": [
+              { "name": "Union europeenne", "total": 0, "level": 0 },
+              { "name": "Union europ\u00e9enne", "total": 0, "level": 0 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "affaires culturelles",
+    "total": 0,
+    "level": 1,
+    "children": [{ "name": "Affaires culturelles", "total": 0, "level": 0 }]
+  },
+  {
+    "name": "articles et machines de bureau",
+    "total": 0,
+    "level": 1,
+    "children": [
+      { "name": "Articles et machines de bureau", "total": 0, "level": 0 }
+    ]
+  },
+  {
+    "name": "blanchisserie et teinturerie",
+    "total": 0,
+    "level": 1,
+    "children": [
+      { "name": "Blanchisserie et teinturerie", "total": 0, "level": 0 }
+    ]
+  },
+  {
+    "name": "budget",
+    "total": 0,
+    "level": 1,
+    "children": [{ "name": "Budget", "total": 0, "level": 0 }]
+  },
+  {
+    "name": "cadres et agents de maitrise",
+    "total": 0,
+    "level": 1,
+    "children": [
+      { "name": "Cadres et agents de maitrise", "total": 0, "level": 0 }
+    ]
+  },
+  {
+    "name": "carburants et combustibles",
+    "total": 0,
+    "level": 1,
+    "children": [
+      { "name": "Carburants et combustibles", "total": 0, "level": 0 }
+    ]
+  },
+  {
+    "name": "commissionnaires et courtiers",
+    "total": 0,
+    "level": 1,
+    "children": [
+      { "name": "Commissionnaires et courtiers", "total": 0, "level": 0 }
+    ]
+  },
+  {
+    "name": "conditionnement",
+    "total": 0,
+    "level": 1,
+    "children": [{ "name": "Conditionnement", "total": 0, "level": 0 }]
+  },
+  {
+    "name": "d\u00e9ontologie professionnelle",
+    "total": 0,
+    "level": 1,
+    "children": [
+      { "name": "Deontologie professionnelle", "total": 0, "level": 0 }
+    ]
+  },
+  {
+    "name": "droguerie et quincaillerie",
+    "total": 0,
+    "level": 1,
+    "children": [
+      { "name": "Droguerie et quincaillerie", "total": 0, "level": 0 }
+    ]
+  },
+  {
+    "name": "\u00e9tudes, conseils et assistance",
+    "total": 0,
+    "level": 1,
+    "children": [
+      { "name": "Etudes, conseils et assistance", "total": 0, "level": 0 }
+    ]
+  },
+  {
+    "name": "expertise",
+    "total": 0,
+    "level": 1,
+    "children": [{ "name": "Expertise", "total": 0, "level": 0 }]
+  },
+  {
+    "name": "faillites, r\u00e8glements judiciaires et liquidations de biens",
+    "total": 0,
+    "level": 1,
+    "children": [
+      {
+        "name": "Faillites, reglements judiciaires et liquidations de biens",
+        "total": 0,
+        "level": 0
+      }
+    ]
+  },
+  {
+    "name": "fleurs, graines et arbres",
+    "total": 0,
+    "level": 1,
+    "children": [
+      { "name": "Fleurs, graines et arbres", "total": 0, "level": 0 }
+    ]
+  },
+  {
+    "name": "g\u00e9om\u00e8tres",
+    "total": 0,
+    "level": 1,
+    "children": [
+      { "name": "Geometres", "total": 0, "level": 0 },
+      { "name": "Geometres et metreurs", "total": 0, "level": 0 }
+    ]
+  },
+  {
+    "name": "instruments de musique",
+    "total": 0,
+    "level": 1,
+    "children": [{ "name": "Instruments de musique", "total": 0, "level": 0 }]
+  },
+  {
+    "name": "ordres professionnels",
+    "total": 0,
+    "level": 1,
+    "children": [{ "name": "Ordres professionnels", "total": 0, "level": 0 }]
+  },
+  {
+    "name": "police priv\u00e9e",
+    "total": 0,
+    "level": 1,
+    "children": [{ "name": "Police privee", "total": 0, "level": 0 }]
+  },
+  {
+    "name": "politique \u00e9conomique et sociale",
+    "total": 0,
+    "level": 1,
+    "children": [
+      { "name": "Politique economique et sociale", "total": 0, "level": 0 }
+    ]
+  },
+  {
+    "name": "politiques europ\u00e9ennes",
+    "total": 0,
+    "level": 1,
+    "children": [{ "name": "Politiques europeennes", "total": 0, "level": 0 }]
+  },
+  {
+    "name": "pompes fun\u00e8bres",
+    "total": 0,
+    "level": 1,
+    "children": [{ "name": "Pompes funebres", "total": 0, "level": 0 }]
+  },
+  {
+    "name": "prestations de services",
+    "total": 0,
+    "level": 1,
+    "children": [{ "name": "Prestations de services", "total": 0, "level": 0 }]
+  },
+  {
+    "name": "produits chimiques et parachimiques",
+    "total": 0,
+    "level": 1,
+    "children": [
+      { "name": "Produits chimiques et parachimiques", "total": 0, "level": 0 }
+    ]
+  },
+  {
+    "name": "produits en caoutchouc",
+    "total": 0,
+    "level": 1,
+    "children": [{ "name": "Produits en caoutchouc", "total": 0, "level": 0 }]
+  },
+  {
+    "name": "produits fissiles et compos\u00e9s",
+    "total": 0,
+    "level": 1,
+    "children": [
+      { "name": "Produits fissiles et composes", "total": 0, "level": 0 }
+    ]
+  },
+  {
+    "name": "protection civile",
+    "total": 0,
+    "level": 1,
+    "children": [{ "name": "Protection civile", "total": 0, "level": 0 }]
+  },
+  {
+    "name": "services secrets",
+    "total": 0,
+    "level": 1,
+    "children": [{ "name": "Services secrets", "total": 0, "level": 0 }]
+  },
+  {
+    "name": "sida",
+    "total": 0,
+    "level": 1,
+    "children": [{ "name": "SIDA", "total": 0, "level": 0 }]
+  },
+  {
+    "name": "soci\u00e9t\u00e9s civiles et commerciales",
+    "total": 0,
+    "level": 1,
+    "children": [
+      { "name": "Societes civiles et commerciales", "total": 0, "level": 0 }
+    ]
+  },
+  {
+    "name": "voyageurs, repr\u00e9sentants, placiers",
+    "total": 0,
+    "level": 1,
+    "children": [
+      { "name": "Voyageurs, representants, placiers", "total": 0, "level": 0 }
+    ]
+  },
+  {
+    "name": "usure",
+    "total": 0,
+    "level": 1,
+    "children": [{ "name": "Usure", "total": 0, "level": 0 }]
+  }
+]

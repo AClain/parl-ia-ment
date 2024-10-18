@@ -1,0 +1,37 @@
+[tool.poetry]
+name = "article-assemblee"
+version = "0.1.0"
+description = ""
+authors = ["Romain Mularczyk <romain.mularczyk@gmail.com>"]
+readme = "README.md"
+packages = [{include = "article_assemblee"}]
+
+[tool.poetry.dependencies]
+python = ">=3.11,<3.13"
+requests = "^2.32.2"
+pytest = "^8.2.1"
+beautifulsoup4 = "^4.12.3"
+pydantic = "^2.7.1"
+jupyterlab = "^4.2.1"
+tqdm = "^4.66.4"
+python-dotenv = "^1.0.1"
+pymongo = "^4.7.3"
+pandas = "^2.2.2"
+guardrails-ai = "^0.5.0"
+lxml = "4.9.3"
+openai = "^1.44.1"
+matplotlib = "^3.9.2"
+krippendorff = "^0.7.0"
+seaborn = "^0.13.2"
+scikit-learn = "^1.5.2"
+krippendorff-alpha = {git = "https://github.com/grrrr/krippendorff-alpha"}
+anthropic = "^0.34.2"
+mistralai = "^1.1.0"
+google-generativeai = "^0.8.2"
+replicate = "^0.33.0"
+great-tables = "^0.13.0"
+selenium = "^4.25.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
