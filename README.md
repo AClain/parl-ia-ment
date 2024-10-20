@@ -1,7 +1,7 @@
 # About this project
 
-This project was done in colaboration with students of Epitech (Romain MULARCZYK, Thibault VALLET and Myriam ABDELLI) in the context of the writing of a scientific paper about _Automating Topic Classification of French Parliamentary
-Questions with Large Language Models_. This project was used to prompt an LLM (mainly _OpenAI's GPT 4o-mini_) using an interface written in Python inside of different notebooks. To see the final result, refer to this README and the _notebooks_ folder inside _src_.
+This project was done in colaboration with students of Epitech (Romain MULARCZYK, Thibault VALLET and Myriam ABDELLI) in the context of the writing of a scientific paper about _Automated Topic Annotation of French Parliamentary Questions with
+Large Language Models_. This project was used to prompt an LLM (mainly _OpenAI's GPT 4o-mini_) using an interface written in Python inside of different notebooks. To see the final result, refer to this README and the _notebooks_ folder inside _src_.
 
 # Scripts
 
