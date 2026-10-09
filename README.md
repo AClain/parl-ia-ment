@@ -1,3 +1,7 @@
+# V1
+
+This branch is an archive. This is the final version that was used to write the article.
+
 # About this project
 
 This project was done in colaboration with students of Epitech (Romain MULARCZYK, Thibault VALLET and Myriam ABDELLI) in the context of the writing of a scientific paper about _Automated Topic Annotation of French Parliamentary Questions with
